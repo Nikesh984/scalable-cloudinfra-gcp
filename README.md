@@ -4,7 +4,7 @@
 
 ---
 
-A scalable cloud infrastructure on GCP using Terraform, planned, developed and deployed for the "CSY Network Structures and Cloud Computing" course. Integrates Compute Engine, Cloud SQL, and Cloud Pub/Sub for a secure, high-availability web application with automated deployments and robust monitoring.
+A scalable cloud infrastructure on GCP using Terraform, planned, developed and deployed for the "CSYE Network Structures and Cloud Computing" course. Integrates Compute Engine, Cloud SQL, and Cloud Pub/Sub for a secure, high-availability web application with automated deployments and robust monitoring.
 
 ## Objective 🎯
 This project, completed as part of the "CSY Network Structures and Cloud Computing" course at Northeastern University, focuses on creating a scalable and secure cloud infrastructure on Google Cloud Platform (GCP). Under Professor Tejas Parikh's guidance, we used Terraform to automate the setup and management of GCP services, supporting a web application with robust deployment processes, enhanced security, and comprehensive monitoring.
