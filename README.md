@@ -46,11 +46,10 @@ The **CSYE-6225-2024-Cloud-Computing** organization has created several reposito
 
 ### Repositories 📦
 
-### 1. **webapp** 🌐
-- **Repository Link**: https://github.com/CSYE-NSCC-NIKESH-ORG/webapp
+### 1. **webapp** 🌐 : https://github.com/CSYE-NSCC-NIKESH-ORG/webapp
 - **Description**: This repository contains the code for building and deploying a Node.js web application. It includes important information on prerequisites for building and deploying the application locally, as well as detailed instructions for deployment.
 
-### 2. **tf-gcp-infra** 🛠️ : (https://github.com/CSYE-NSCC-NIKESH-ORG/tf-gcp-infra)
+### 2. **tf-gcp-infra** 🛠️ : https://github.com/CSYE-NSCC-NIKESH-ORG/tf-gcp-infra
 - **Description**: This private repository provides Terraform templates for setting up networking resources in Google Cloud Platform (GCP). It includes configurations for Virtual Private Cloud (VPC), subnets, routes, and other essential networking components.
 
 ### 3. **serverless** 🚀 : https://github.com/CSYE-NSCC-NIKESH-ORG/serverless
